@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 10145d49764eeea47ad3beed20309f35
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: earth
+    100002: earth 1
+    100004: jupiter
+    100006: jupiter 1
+    100008: mars
+    100010: mars 1
+    100012: mercury
+    100014: mercury 1
+    100016: moon
+    100018: moon1
+    100020: moon10
+    100022: moon11
+    100024: moon12
+    100026: moon13
+    100028: moon14
+    100030: moon15
+    100032: moon16
+    100034: moon17
+    100036: moon2
+    100038: moon3
+    100040: moon4
+    100042: moon5
+    100044: moon6
+    100046: moon7
+    100048: moon8
+    100050: moon9
+    100052: neptune
+    100054: neptune 1
+    100056: pluto
+    100058: pluto 1
+    100060: saturn
+    100062: saturn 1
+    100064: saturn_ring
+    100066: //RootNode
+    100068: uranus
+    100070: uranus 1
+    100072: venus
+    100074: venus 1
+    400000: earth
+    400002: earth 1
+    400004: jupiter
+    400006: jupiter 1
+    400008: mars
+    400010: mars 1
+    400012: mercury
+    400014: mercury 1
+    400016: moon
+    400018: moon1
+    400020: moon10
+    400022: moon11
+    400024: moon12
+    400026: moon13
+    400028: moon14
+    400030: moon15
+    400032: moon16
+    400034: moon17
+    400036: moon2
+    400038: moon3
+    400040: moon4
+    400042: moon5
+    400044: moon6
+    400046: moon7
+    400048: moon8
+    400050: moon9
+    400052: neptune
+    400054: neptune 1
+    400056: pluto
+    400058: pluto 1
+    400060: saturn
+    400062: saturn 1
+    400064: saturn_ring
+    400066: //RootNode
+    400068: uranus
+    400070: uranus 1
+    400072: venus
+    400074: venus 1
+    2100000: sun1
+    2100002: mercury1
+    2100004: moon18
+    2100006: venus1
+    2100008: earth1
+    2100010: mars1
+    2100012: jupiter1
+    2100014: saturn1
+    2100016: uranus1
+    2100018: neptune1
+    2100020: pluto1
+    2300000: earth 1
+    2300002: jupiter 1
+    2300004: mars 1
+    2300006: mercury 1
+    2300008: moon
+    2300010: moon1
+    2300012: moon10
+    2300014: moon11
+    2300016: moon12
+    2300018: moon13
+    2300020: moon14
+    2300022: moon15
+    2300024: moon16
+    2300026: moon17
+    2300028: moon2
+    2300030: moon3
+    2300032: moon4
+    2300034: moon5
+    2300036: moon6
+    2300038: moon7
+    2300040: moon8
+    2300042: moon9
+    2300044: neptune 1
+    2300046: pluto 1
+    2300048: saturn 1
+    2300050: saturn_ring
+    2300052: //RootNode
+    2300054: uranus 1
+    2300056: venus 1
+    3300000: earth 1
+    3300002: jupiter 1
+    3300004: mars 1
+    3300006: mercury 1
+    3300008: moon
+    3300010: moon1
+    3300012: moon10
+    3300014: moon11
+    3300016: moon12
+    3300018: moon13
+    3300020: moon14
+    3300022: moon15
+    3300024: moon16
+    3300026: moon17
+    3300028: moon2
+    3300030: moon3
+    3300032: moon4
+    3300034: moon5
+    3300036: moon6
+    3300038: moon7
+    3300040: moon8
+    3300042: moon9
+    3300044: neptune 1
+    3300046: pluto 1
+    3300048: saturn 1
+    3300050: saturn_ring
+    3300052: //RootNode
+    3300054: uranus 1
+    3300056: venus 1
+    4300000: sun
+    4300002: mercury
+    4300004: moon1
+    4300006: moon2
+    4300008: venus
+    4300010: moon3
+    4300012: moon4
+    4300014: earth
+    4300016: moon
+    4300018: moon5
+    4300020: mars
+    4300022: moon6
+    4300024: moon7
+    4300026: jupiter
+    4300028: moon8
+    4300030: moon9
+    4300032: saturn
+    4300034: moon10
+    4300036: moon11
+    4300038: saturn_ring
+    4300040: uranus
+    4300042: moon12
+    4300044: moon13
+    4300046: neptune
+    4300048: moon14
+    4300050: moon15
+    4300052: pluto
+    4300054: moon16
+    4300056: moon17
+    7400000: solar system
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: earth1
+    second: {fileID: 2100000, guid: 6f266008004270a4cb56d9c6622a11ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jupiter1
+    second: {fileID: 2100000, guid: ac6f6e9e24bee46408a19d2f81e4a7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mars1
+    second: {fileID: 2100000, guid: 7c4ea83694a63604095648dc9cf14caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mercury1
+    second: {fileID: 2100000, guid: 56a5a4be4b6902b4ca3a922672ce21d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moon18
+    second: {fileID: 2100000, guid: 2fe2b1a0a0748e540ad8d8872729ef4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neptune1
+    second: {fileID: 2100000, guid: c5e75a8c7029594458a4419c77d36c78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pluto1
+    second: {fileID: 2100000, guid: 9330ef4256f98124486dd7a18e840fc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: saturn1
+    second: {fileID: 2100000, guid: 2cc0ee97abebb3a46844051e19fa5755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sun1
+    second: {fileID: 2100000, guid: e2c346933a2cef349b9e4023001a45c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: uranus1
+    second: {fileID: 2100000, guid: 60e3cb56bf15aec4cb3e724fea921864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: venus1
+    second: {fileID: 2100000, guid: a2a44d3d6ff273e488e66b3d96315bbb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
